@@ -5,3 +5,8 @@ Morning routine
 2. Go to wash room and brush teeth
 3. Reading for about 2 hrs
 4. Programming for 2 hrs
+
+Evening Routine
+1. Sleep
+2. Reading for about 1.5 hrs
+3. Programming for about 2 hrs
